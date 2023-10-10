@@ -1,0 +1,7 @@
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        if (document.querySelector('footer')) {
+            alert('Footer has loaded!');
+        }
+    });
+</script>
